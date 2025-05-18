@@ -1,0 +1,5 @@
+## Resultados de aprendizaje:
+1. Aplicar Generics en Java: El estudiante será capaz de utilizar tipos genéricos en clases, métodos e interfaces, comprendiendo su importancia en la seguridad y reutilización del código dentro de colecciones y estructuras de datos.
+2. Gestionar y manipular colecciones genéricas: El estudiante será capaz de implementar clases y métodos genéricos como Sorteador y Buscador, aplicar comodines (?, extends, super) y diseñar estructuras eficientes para manejar datos dinámicos.
+3. Ordenar y buscar elementos en colecciones genéricas: El estudiante será capaz de emplear Comparable y Comparator para definir criterios de ordenación personalizados en colecciones, además de desarrollar mecanismos genéricos de búsqueda en listas.
+4. Integrar Generics en el diseño modular del software: El estudiante será capaz de estructurar código reutilizable y escalable mediante el uso de Generics en interfaces y métodos, optimizando la organización y flexibilidad del desarrollo en Java.
